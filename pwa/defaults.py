@@ -3,7 +3,7 @@ from django.utils.translation import gettext_lazy as _
 
 def get_pwa_config():
 	DEFAULT_CONFIG = {
-		"name": _("Progressive Web Application"),
+		"name": _("Foodshake App"),
 		"short_name": _("PWA"),
 		"theme_color": "#7820f5",
 		"background_color": "#7820f5",
