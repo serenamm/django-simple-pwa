@@ -15,7 +15,7 @@ DSP از یک ساختار پیشفرض برای تولید ``manifest.json`` ا
 	#<pwa/defaults.py>
 
 	DEFAULT_CONFIG = {
-		"name": "Progressive Web Application",
+		"name": "Foodshake",
 		"short_name": "PWA",
 		"theme_color": "#7820f5",
 		"background_color": "#7820f5",
