@@ -6,7 +6,7 @@ PWA
 PWA
 ###
 
-PWA is a simple Django app to develop and deploy a Progressive Web Application.
+PWA is a simple Django app to develop and deploy a Foodshake.
 
 Detailed documentation is in the "docs" directory.
 

@@ -91,7 +91,7 @@ DSP از یک ساختار پیشفرض برای تولید ``manifest.json`` ا
 
 	PWA_CONFIG = {
 	# ...
-	"name": "Progressive Web Application"
+	"name": "Foodshake"
 	# ...
 	}
 	PWA_APP = """// js code here"""
