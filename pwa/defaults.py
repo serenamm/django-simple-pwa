@@ -55,7 +55,7 @@ def get_pwa_config():
 		],
 		"lang": "en",
 		"dir": "ltr",
-		"description": _("Progressive Web app powerd by Django"),
+		"description": _("Foodshake"),
 		"version": "1.",
 		"manifest_version": "1.0",
 		"permissions": [

@@ -67,7 +67,7 @@ DSP از یک ساختار پیشفرض برای تولید ``manifest.json`` ا
 			],
 		"lang": "en",
 		"dir": "ltr",
-		"description": "Progressive Web app powerd by Django",
+		"description": "Foodshake",
 		"version": "1.",
 		"manifest_version": "1.0",
 		"permissions": [
@@ -194,7 +194,7 @@ DSP از یک ساختار پیشفرض برای تولید ``manifest.json`` ا
 			],
 		"lang": "en",
 		"dir": "ltr",
-		"description": "Progressive Web app powerd by Django",
+		"description": "Foodshake",
 		"version": "1.",
 		"manifest_version": "1.0",
 		"permissions": [
