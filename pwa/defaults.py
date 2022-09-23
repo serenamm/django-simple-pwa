@@ -74,7 +74,7 @@ def get_pwa_config():
 
 def get_service_worker():
 	SERVICE_WORKER = """
-var CACHE_NAME = 'pwa-cache-v2';
+var CACHE_NAME = 'pwa-cache-v1';
 var urlsToCache = [
 	'/',
 	'/sw.js',
