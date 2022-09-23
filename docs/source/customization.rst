@@ -25,42 +25,42 @@ DSP از یک ساختار پیشفرض برای تولید ``manifest.json`` ا
 		"start_url": "/",
 		"icons": [
 			{
-				"src": "/static/pwa/icons/72x72.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "72x72"
 			},
 			{
-				"src": "/static/pwa/icons/96x96.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "96x96"
 			},
 			{
-				"src": "/static/pwa/icons/128x128.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "128x128"
 			},
 			{
-				"src": "/static/pwa/icons/144x144.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "144x144"
 			},
 			{
-				"src": "/static/pwa/icons/152x152.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "152x152"
 			},
 			{
-				"src": "/static/pwa/icons/192x192.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "192x192"
 			},
 			{
-				"src": "/static/pwa/icons/384x384.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "384x384"
 			},
 			{
-				"src": "/static/pwa/icons/512x512.png",
+				"src": "/static/pwa/images/icons/site-logo.png",
 				"type": "image/png",
 				"sizes": "512x512"
 			}
