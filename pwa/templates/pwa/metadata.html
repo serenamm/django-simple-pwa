@@ -15,11 +15,10 @@
 {% endif %}
 {% if ICONS %}
 {% for icon in ICONS %}
-<link rel="apple-touch-icon" type="{{icon.type}}" sizes="{{icon.sizes}}" href="{{icon.src}}" />
-<link rel="icon" type="{{icon.type}}" sizes="{{icon.sizes}}" href="{{icon.src}}" />
-<meta name="msapplication-TileImage" sizes="{{icon.sizes}}" content="{{icon.src}}" />
-
-    {% endfor %}
+<link rel="apple-touch-icon" type="{{icon.type}}" sizes="{{icon.sizes}}" href="/static/pwa/images/icons/site-logo.png" />
+<link rel="icon" type="{{icon.type}}" sizes="{{icon.sizes}}" href="/static/pwa/images/icons/site-logo.png" />
+<meta name="msapplication-TileImage" sizes="{{icon.sizes}}" content="/static/pwa/images/icons/site-logo.png" />
+    {% endfor %}/static/pwa/images/icons/site-logo.png
 {% endif %}
 
 
